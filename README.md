@@ -25,5 +25,3 @@ langchain_mock_project/
 ## ▶ How to Run
 ```bash
 python main.py
-📌 Author
-Viraj Vishwakarma
